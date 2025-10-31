@@ -1,0 +1,5 @@
+SE190568,Duong Thai Bao,2005,Software engineer,8.00
+SE1000,Vuong Anh Hao,2004,SE,4.00
+SE1001,Phan Van Tin,2005,FREE FIRE,6.00
+SE1003,Nguyen Thai Bao,2004,LIQI,6.00
+SE1002,Hao Bao Tin,2005,SE,10.00

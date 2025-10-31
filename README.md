@@ -20,7 +20,7 @@ It allows users to **add, edit, delete, search, sort, and store** student record
 ## ⚙️ Technologies Used
 - **Language:** C  
 - **Techniques:** Structs, Arrays, Pointers, File I/O, Modular Programming  
-- **Files:** 7 source/header files (`.c` & `.h`)
+- **Files:** 8 source/header files (`.c` & `.h`)
 
 ---
 
